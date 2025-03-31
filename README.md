@@ -1,0 +1,1 @@
+# Forest-Fire-Risk-Prediction-Using-Satellite-Imagery
